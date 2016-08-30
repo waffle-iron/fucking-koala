@@ -1,8 +1,8 @@
-Informações Básicas do jogo:
+# Informações Básicas do jogo: #
 
 O jogo será desenvolvido para a plataforma PC, inicialmente, e poderá ser migrado para android dependendo do tamanho e da complexidade final.
 
-A base do jogo consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada X leveis o personagem pode evoluir de rank para se tornar uma nova criatura superior, dentro de uma árvore de espécies, que definirá seu destino final na evolução.
+A base do jogo consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _x_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura superior, dentro de uma árvore de espécies, que definirá seu destino final na evolução.
 
 A visão será em 2D, no estilo plataforma slide scrolling.
 
