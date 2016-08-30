@@ -7,7 +7,7 @@ Consiste na evolução das espécies, isso funcionará com elementos de RPG onde
 
 ## Qual é o objetivo do jogo? ##
 
-Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" com "k").
+Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" com "k") e morra (inutilidade).
 
 ## Informações básicas do game: ##
 
@@ -18,7 +18,7 @@ Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" 
  * Pode-se trocar, por exemplo:
    - Os membros locomotores: mais velocidade de movimento ou mais facilidade de trocar a direção para qual está correndo;
    - Tipo de pele (couro, couraça, casco...): aumentar a defesa, mas pode prejudicar velocidade de movimento; 
-   - Boca: trocar o tipo de alimentação (herbívoro, carnívero e onívoro) e mudar a quantidade de dano que cada mordida causa;
+   - Boca: trocar o tipo de alimentação (herbívoro, carnívero e okívoro) e mudar a quantidade de dano que cada mordida causa;
  * O game será single-player, em modo campanha no estilo do _E.V.O. Search for Eden_. 
  * Terá um mapa global, onde serão distribuídos diversas dungeons onde o jogador parte de um ponto inicial e converge até um ponto final, percorrendo de forma linear até o final do jogo.
  * O estado inicial do player começa com uma bactéria (forma de vida mais simples), a partir dela o jogador pode escolher em uma _Evolution Tree_ (ET):
