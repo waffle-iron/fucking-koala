@@ -12,7 +12,7 @@ Evoluir o personagem até que o mesmo se transforme um koala (isso mesmo, "koala
 ## Informações básicas do game: ##
 
 ## Características ##
- * O game será desenvolvido na visão 2D, no estilo _slide scrolling_ com arte 16_bits_
+ * O game será desenvolvido na visão 2D, no estilo _slide scrolling_ com arte 16 _bits_
  * Os players controlam uma criatura que se move verticalmente, localizado sempre no centro da tela, como no _Super Mario World_
  * O gamer precisa comer plantas/animais/criaturas para conseguir experiência e poder aprimorar a própria criatura
  * Pode-se trocar, por exemplo:
