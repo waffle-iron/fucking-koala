@@ -27,7 +27,7 @@ Evoluir o personagem até que o mesmo se transforme um koala (isso mesmo, "koala
    - Inseto
    - Planta
    - ...
-   - 
+
  * Dentro de cada ET vão existir Ranks de características que o jogador pode escolher para sua criatura. Cada Rank vai ter um "tema", por exemplo:
    - Movimentação 
    - Alimentação
