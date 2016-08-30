@@ -29,6 +29,7 @@ Dentro de cada ET vão existir Ranks de características que o jogador pode esco
  - Alimentação
  - Defesa
  - ...
+
 Quando o jogador liberar um desses Ranks ele vai poder escolher uma das opções de Características desse Rank. Essas Características são coisas realcionados ao tipo de ser vivo que o jogador escolheu e ao tema do Rank. Por exemplo:
  - Se for um Vertebrado, ele tem que escolher no primeiro Rank movimentação: Asa, Quadrúpede ou Bípede.
  - Se for um Inseto, as caracterísitcas de movimentação podem ser: Asa, Oito Patas ou Cem Patas.
