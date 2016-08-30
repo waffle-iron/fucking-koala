@@ -23,6 +23,7 @@ O jogo começa com a criatura do jogador sendo uma bactéria (forma de vida mais
  - Inseto
  - Planta
  - ...
+
 Dentro de cada ET vão existir Ranks de características que o jogador pode escolher para sua criatura. Cada Rank vai ter um "tema", por exemplo:    
  - Movimentação 
  - Alimentação
