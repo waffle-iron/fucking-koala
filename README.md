@@ -11,21 +11,15 @@ Evoluir o personagem até que o mesmo se transforme um koala (isso mesmo, "koala
 
 ## Informações básicas do game: ##
 
-
-
 ## Características ##
- - O game será desenvolvido em 2D, no estilo plataforma _slide scrolling_
+ * O game será desenvolvido em 2D, no estilo plataforma _slide scrolling_
+ * Os players controlam uma criatura que se move verticalmente, localizado sempre no centro da tela, como no _Super Mario World_
+ * O gamer precisa comer plantas/animais/criaturas para conseguir experiência e poder aprimorar a própria criatura
+ * Pode-se trocar, por exemplo:
+   - Os membros locomotores: mais velocidade de movimento ou mais facilidade de trocar a direção para qual está correndo;
+   - Tipo de pele (couro, couraça, casco...): aumentar a defesa, mas pode prejudicar velocidade de movimento; 
+   - Boca: trocar o tipo de alimentação (herbívoro, carnívero e onívoro) e mudar a quantidade de dano que cada mordida causa;
 
-
-Os players controlam uma criatura que se move verticalmente, localizado sempre no centro da tela, como no _Super Mario World_.
-
-O gamer precisa comer plantas/animais/criaturas para conseguir experiência e poder aprimorar a própria criatura.
-
-Pode-se trocar, por exemplo:
- - Os membros locomotores: mais velocidade de movimento ou mais facilidade de trocar a direção para qual está correndo;
- - Tipo de pele (couro, couraça, casco...): aumentar a defesa, mas pode prejudicar velocidade de movimento; 
- - Boca: trocar o tipo de alimentação (herbívoro, carnívero e onívoro) e mudar a quantidade de dano que cada mordida causa;
- 
 O game será single-player, em modo campanha no estilo do _E.V.O. Search for Eden_. Terá um mapa global, onde serão distribuídos diversas dungeons onde o jogador parte de um ponto inicial e converge até um ponto final, percorrendo de forma linear até o final do jogo.
 
 
