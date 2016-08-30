@@ -1,13 +1,13 @@
 # BECOME A KOALA  - What the fuck is this? #
-Trata-se de um jogo _single player_ que será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as features que a versão para PC terá -.
+Trata-se de um jogo _single player_, em modo campanha, que será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as _features_ da versão para PC -.
 
 ## Informações básicas do jogo ##
 
-Consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _x_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
+Consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _X_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
 
 ## Qual é o objetivo do jogo? ##
 
-Evoluir o personagem até que o mesmo se transforme um koala (isso mesmo, "koala" com "k").
+Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" com "k").
 
 ## Informações básicas do game: ##
 
