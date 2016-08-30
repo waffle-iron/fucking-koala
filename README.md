@@ -1,10 +1,21 @@
-# Informações básicas do game: #
+# BECOME A KOALA  - What the fuck is it? #
+Trata-se de um jogo _single player_ que será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as features que a versão para PC terá -.
 
-O _game_  será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as features que a versão para PC terá -.
+## Informações básicas do jogo ##
 
-A base do game  consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _x_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
+Consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _x_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
 
-A visão será em 2D, no estilo plataforma slide scrolling.
+## Qual é o objetivo do jogo? ##
+
+Evoluir o personagem até que o mesmo se transforme um koala (isso mesmo, "koala" com "k").
+
+## Informações básicas do game: ##
+
+
+
+## Características ##
+ - O game será desenvolvido em 2D, no estilo plataforma _slide scrolling_
+
 
 Os players controlam uma criatura que se move verticalmente, localizado sempre no centro da tela, como no _Super Mario World_.
 
@@ -35,9 +46,13 @@ Quando o jogador liberar um desses Ranks ele vai poder escolher uma das opções
  - Se for um Vertebrado, ele tem que escolher no primeiro Rank movimentação: Asa, Quadrúpede ou Bípede.
  - Se for um Inseto, as caracterísitcas de movimentação podem ser: Asa, Oito Patas ou Cem Patas.
 
-----
-Side idea: Existem formas padrões para morrer, como o pulo não foi longe o suficiente, foi atacado por uma criatura superior, fome (?) e entre outros que serão pensados no futuro. Essas formas de morte poderiam evoluir a parte da criatura responsável por sua morte, como por exemplo:
- - Morrer por não conseguir pular uma fenda, na próxima vida a criatura terá pernas melhores para pular.
+## Side ideas (proposals) ##
+
+### Morte do personagem ###
+Existem formas padrões para morrer, como o pulo não foi longe o suficiente, foi atacado por uma criatura superior, fome (?) e entre outros que serão pensados no futuro. Essas formas de morte poderiam evoluir a parte da criatura responsável por sua morte, como por exemplo:
+  - Morrer por não conseguir pular uma fenda, na próxima vida a criatura terá pernas melhores para pular.
+
  
-----
-Side idea: O jogo pode funcionar como num MOBA, dividido em partidas de 10~20min. No início de cada partida os jogadores começam apenas com alimentação herbívora e tem que farmar pontos para poder se aprimorar e destruir outros jogadores. Teria que arrumar um objetivo pra partida (só deathmatch não parece tão divertido).
+### Funcionamento ###
+
+O game pode funcionar como num _MOBA_, dividido em partidas de 10~20min. No início de cada partida os jogadores começam apenas com alimentação herbívora e tem que farmar pontos para poder se aprimorar e destruir outros jogadores. Teria que arrumar um objetivo pra partida (só deathmatch não parece tão divertido).
