@@ -1,4 +1,4 @@
-# BECOME A KOALA  - What the fuck is this? #
+# DON'T BECOME A KOALA! #
 Trata-se de um jogo _single player_, em modo campanha, que será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as _features_ da versão para PC -.
 
 ## Informações básicas do jogo ##
@@ -7,7 +7,7 @@ Consiste na evolução das espécies, isso funcionará com elementos de RPG onde
 
 ## Qual é o objetivo do jogo? ##
 
-Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" com "k") e morra (inutilidade).
+Evoluir uma criatura dentro da _Evolution Tree_ (ET) passando por cada fase dentro do mundo do jogo, se tornando cada vez mais forte para enfrentar outras criaturas e adquirir experiência. Mas deve se ter cuidado para não se transformar em um koala (isso mesmo, "koala" com "k"), pois morrerá.
 
 ## Informações básicas do game: ##
 
@@ -21,7 +21,7 @@ Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" 
    - Boca: trocar o tipo de alimentação (herbívoro, carnívero e okívoro) e mudar a quantidade de dano que cada mordida causa;
  * O game será single-player, em modo campanha no estilo do _E.V.O. Search for Eden_. 
  * Terá um mapa global, onde serão distribuídos diversas dungeons onde o jogador parte de um ponto inicial e converge até um ponto final, percorrendo de forma linear até o final do jogo.
- * O estado inicial do player começa com uma bactéria (forma de vida mais simples), a partir dela o jogador pode escolher em uma _Evolution Tree_ (ET):
+ * O estado inicial do player começa com uma bactéria (forma de vida mais simples), a partir dela o jogador pode escolher na _ET_:
    - Vertebrado
    - Invertebrado
    - Inseto
@@ -44,6 +44,7 @@ Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" 
   - Rabada (ex.: lagarto)
   - Coice (ex.: cavalo)
   - Projétil
+  - Endocitose (ex.: célula)
 
 * Algumas criaturas também poderão lançar projéteis como forma de ataque e defesa/_debuff_. Estes projéteis também serão relacionados à espécie da criatura que o jogador possui, como por exemplo:
   - Lançar teias como uma aranha(talvez dá pra por uma jogabilidade diferente com as teias, estilo a aranha do _Donkey Kong_, ou então adicionar um _debuff_ na _movement speed_ dos inimigos)
