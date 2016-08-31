@@ -38,11 +38,18 @@ Evoluir a criatura até que o mesmo se transforme um koala (isso mesmo, "koala" 
    - Se for um Vertebrado, ele tem que escolher no primeiro Rank movimentação: Asa, Quadrúpede ou Bípede.
    - Se for um Inseto, as caracterísitcas de movimentação podem ser: Asa, Oito Patas ou Cem Patas.
 
-* Algumas criaturas também poderão lançar projéteis como forma de ataque, defesa/debuff. Estes projéteis também serão relacionados a espécie da criatura que o jogador possui, como por exemplo:
-  - Lançar teias como uma aranha(talvez dá pra por uma jogabilidade diferente com as teias, estilo a aranha do Donkey Kong, ou então adicionar um debuff na movement speed dos inimigos)
-  - Cuspir veneno como uma cobra (damage over time)
-  - Lançar o cheiro ruim do gambá (fear ou stun)
-  - Jogar tinta como um polvo/lula (blind)
+* Existem diversas formas de ataques, dentre elas:
+  - Mordida (qualquer criatura tem essa, é a mais básica)
+  - Investida (ex.: rinoceronte ou boi)
+  - Rabada (ex.: lagarto)
+  - Coice (ex.: cavalo)
+  - Projétil
+
+* Algumas criaturas também poderão lançar projéteis como forma de ataque e defesa/_debuff_. Estes projéteis também serão relacionados à espécie da criatura que o jogador possui, como por exemplo:
+  - Lançar teias como uma aranha(talvez dá pra por uma jogabilidade diferente com as teias, estilo a aranha do _Donkey Kong_, ou então adicionar um _debuff_ na _movement speed_ dos inimigos)
+  - Cuspir veneno como uma cobra (_damage over time_)
+  - Lançar o cheiro ruim do gambá (_fear_ ou _stun_)
+  - Jogar tinta como um polvo/lula (_blind_)
   - Cagar como uma pomba ou lançar coco como um macaco
 
 ## Side ideas (proposals) ##
