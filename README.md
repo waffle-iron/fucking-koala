@@ -3,7 +3,7 @@ Trata-se de um jogo _single player_, em modo campanha, que será desenvolvido pa
 
 ## Informações básicas do jogo ##
 
-Consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquiri EXP para evoluir as partes do corpo, a cada _X_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
+Consiste na evolução das espécies, isso funcionará com elementos de RPG onde o personagem adquire EXP para evoluir as partes do corpo, a cada _X_ níveis o personagem pode evoluir de rank para se tornar uma nova criatura. Esta criaturá estará dentro de uma árvore de espécies, que definirá seu destino final na evolução.
 
 ## Qual é o objetivo do jogo? ##
 
