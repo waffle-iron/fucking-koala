@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/koala-games/fucking-koala.png?label=ready&title=Ready)](https://waffle.io/koala-games/fucking-koala)
 # DON'T BECOME A KOALA! #
 Trata-se de um jogo _single player_, em modo campanha, que será desenvolvido para a plataforma PC, inicialmente, e poderá ser expandido para _Android_ - evidentemente não conterá todas as _features_ da versão para PC -.
 
